@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Databases",
+        "Svg": "img/user/sql_image.svg",
+        "description": "Databases are the backbone of any application. Learn how to use them to store and retrieve data. SQL and NoSQL databases are covered."
+    },
+    {
+        "title": "Java",
+        "Svg": "img/user/java_image.svg",
+        "description": "Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+    {
+        "title": "Python",
+        "Svg": "img/user/python_image.svg",
+        "description": "Python is an interpreted, high-level & general-purpose language. Write clear, logical code for small and large-scale projects."
+    },
+    {
+        "title": "Linux",
+        "Svg": "img/user/Pinguino-Linux.svg",
+        "description": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel. Learn how to use the command line and write shell scripts."
+    },
+    {
+        "title": "Vim",
+        "Svg": "img/user/vim-image.svg",
+        "description": "Vim is a highly configurable text editor built to enable efficient text editing. It is an improved vi editor distributed with most UNIX systems."
+    },
+    {
+        "title": "Operating Systems",
+        "Svg": "img/user/virtual-machine-host-image.svg",
+        "description": "Operating systems are the interface between the user and the hardware. A few popular ones are Windows, Linux, macOS, Android, and iOS."
+    },
+    {
+        "title": "PostgreSQL",
+        "Svg": "img/user/Postgresql_elephant.svg",
+        "description": "PostgreSQL is a powerful, open-source object-relational database system."
+    },
+    {
+        "title": "MySQL",
+        "Svg": "img/user/mysql-image.svg",
+        "description": "MySQL is an open-source relational database management system. The SQL in MySQL stands for Structured Query Language."
+    }
+]
